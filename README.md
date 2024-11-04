@@ -49,10 +49,10 @@
 ---
 
 ### 📊 GitHub 통계
-<div display="flex" justify-content="center" align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=LSH-1082&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSH-1082&layout=compact&theme=radical" />
+<div style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=LSH-1082&show_icons=true&theme=radical" style="margin: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSH-1082&layout=compact&theme=radical" style="margin: 10px;" />
 
 </div>
 
