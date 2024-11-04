@@ -7,11 +7,6 @@
 ### 🚀 소개
 
 - 🔭 가장 최근 진행했던 프로젝트: [프로젝트 이름](프로젝트 링크)
-- 🌱 현재 배우고 있는 기술: [기술/프레임워크 이름]
-- 👯 함께 협업하고 싶은 주제: [협업하고 싶은 프로젝트나 주제]
-- 💬 저에게 질문해 주세요: [관심 분야나 잘 아는 주제]
-- 📫 연락 방법: [이메일 또는 LinkedIn 주소]
-- ⚡ 재미있는 사실: [본인과 관련된 재미있는 사실]
 
 ---
 
@@ -28,9 +23,9 @@
 
 ### 📊 GitHub 통계
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LSH-1082&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LSH-1082&layout=compact&theme=radical)
 
 ---
 
