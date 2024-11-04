@@ -42,7 +42,7 @@
 ---
 
 ### 📊 GitHub 통계
-<div align="center">
+<div align="center", display="inline-block">
    
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LSH-1082&show_icons=true&theme=radical)
 
