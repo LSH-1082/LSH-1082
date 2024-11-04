@@ -1,7 +1,5 @@
 # 🙋 안녕하세요, 이상현입니다!
 
----
-
 ### 🚀 소개
 <div align="center">
 
@@ -52,9 +50,9 @@
 
 ### 📊 GitHub 통계
 <div align="center">
-   
-<img src="https://github-readme-stats.vercel.app/api?username=LSH-1082&show_icons=true&theme=radical" style="display: inline-block; width: 45%;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSH-1082&layout=compact&theme=radical" style="display: inline-block; width: 45%;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=LSH-1082&show_icons=true&theme=radical" style="display: block; margin: auto;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LSH-1082&layout=compact&theme=radical" style="display: block; margin: auto;" />
 
 </div>
 
