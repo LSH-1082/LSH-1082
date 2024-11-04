@@ -64,7 +64,7 @@
 <div align="center">
   
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tkdgus2282@naver..com)
-[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge)]([https://your-notion-link.notion.site/](https://splashy-spike-cd8.notion.site/4526251cbefb47008c6fb27bf1abb266))
+[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge)](https://splashy-spike-cd8.notion.site/4526251cbefb47008c6fb27bf1abb266)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/LSH-1082)
 
 </div>
