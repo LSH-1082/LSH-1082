@@ -39,12 +39,27 @@
    - **사용 언어 및 도구**: Spring Boot, JWT, JPA, MySQL, React
    - **주요 기능**: 메모 작성 및 데이터베이스 저장, 마크다운 문법 지원
    - **역할**: 풀스택 개발
+  
+3. **NewsScheduler - 뉴스 요약 자동화 시스템**  
+   - **프로젝트 링크**: [뉴스 요약 자동화 시스템](https://github.com/LSH-1082/newsScheduler)
+   - **사용 언어 및 도구**: Python, HTML, CSS, Docker, NewsAPI, OpenAI API, Naver News API
+   - **주요 기능**: 뉴스 데이터 수집 → AI 요약 → HTML 이메일 자동 전송
+   - **역할**: 전체 아키텍처 설계 및 백엔드 개발
 
-3. **아이구스봇 - 동아리 근태관리 봇**  
+4. **아이구스봇 - 동아리 근태관리 봇**  
    - **프로젝트 링크**: [동아리 근태관리 봇](https://github.com/LSH-1082/DiscordIGooseBot)
    - **사용 언어 및 도구**: Java, MySQL
    - **주요 기능**: 디스코드 명령어를 통한 출근/퇴근 시간 관리
    - **역할**: 전체 앱 개발
+  
+---
+
+### 🏗️ 진행중 프로젝트
+1. **시큐어 메신저**  
+   - **프로젝트 링크**: [시큐어 메신저](https://github.com/LSH-1082/webSocketServer)
+   - **사용 언어 및 도구**: Spring Boot, WebSocket, CLI
+   - **주요 기능**: 비대칭키를 이용해 종단간암호화 통신하는 자바 커맨드라인 인터페이스 앱
+   - **역할**: 서버, 클라이언트 제작
 
 ---
 
