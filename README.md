@@ -47,7 +47,7 @@
    - **역할**: 전체 아키텍처 설계 및 백엔드 개발
 
 4. **근태관리 웹앱 - 동아리 근태관리 웹앱**  
-   - **프로젝트 링크**: [동아리 근태관리 봇](https://github.com/LSH-1082/WebAttendance)
+   - **프로젝트 링크**: [동아리 근태관리 웹앱](https://github.com/LSH-1082/WebAttendance)
    - **사용 언어 및 도구**: Spring Boot, Mybatis, MUI, React.js, Redux, MySQL
    - **주요 기능**: 사용자의 출석 현황을 한눈에 파악할 수 있으며, 개인별 통계 제공.
    - **역할**: 전체 앱 개발
