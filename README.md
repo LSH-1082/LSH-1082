@@ -35,12 +35,3 @@
 </div>
 
 ---
-
-### 🔗 링크
-
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tkdgus2282@naver..com)
-[![Notion](https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge)](https://splashy-spike-cd8.notion.site/4526251cbefb47008c6fb27bf1abb266)
-
-</div>
