@@ -5,12 +5,20 @@
 
 ---
 
+<p></p>
+
 ### Tech Stack
 <div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,react,git&theme=light)](https://skillicons.dev)
 
 </div>
+
+<p></p>
+
+---
+
+<p></p>
 
 ### Stats
 <div align="center">
