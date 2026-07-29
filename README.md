@@ -12,8 +12,6 @@
 
 </div>
 
----
-
 ### Stats
 <div align="center">
 
