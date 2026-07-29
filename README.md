@@ -5,8 +5,6 @@
 
 ---
 
-<p> </p>
-
 ### Tech Stack
 <div align="center">
 
@@ -14,11 +12,8 @@
 
 </div>
 
-<p> </p>
-
 ---
 
-<p> </p>
 
 ### Stats
 <div align="center">
