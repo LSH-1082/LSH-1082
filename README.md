@@ -1,37 +1,22 @@
-# 🙋 안녕하세요, 이상현입니다!
+### About
 
-### 🚀 소개
-
-<p> 저는 주로 백엔드와 프론트엔드 전반을 아우르는 풀스택 개발을 경험해왔습니다. </p> 
-<p> 새로운 기술을 배우고 이를 통해 더 나은 사용자 경험을 제공하는 것을 목표로 삼고 있습니다. </p>
-<p> 프로젝트를 통해 끊임없이 성장하며 기술 스택을 확장하고 있습니다. </p>
+문제를 다양한 관점에서 분석하고 최적의 해결책을 선택하는 것을 중요하게 생각합니다.
+꾸준한 학습과 소통을 바탕으로 최선의 해결책을 찾아가는 개발자로 성장하고 있습니다.
 
 ---
 
-### 🛠️ 사용 언어 및 도구
+### Tech Stack
 <div align="center">
-   
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&logoColor=white&style=flat)
-![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=flat)
-![JPA](https://img.shields.io/badge/-JPA-6DB33F?style=flat)
-![MyBatis](https://img.shields.io/badge/-MyBatis-007396?style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 
-</div>
-
-### 📊 GitHub 통계
-<div align="center">
-  
-  ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=LSH-1082&show_icons=true&theme=radical)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LSH-1082&layout=compact&theme=radical)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,react,git&theme=light)](https://skillicons.dev)
 
 </div>
 
 ---
+
+### Stats
+<div align="center">
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chid)
+
+</div>
