@@ -11,13 +11,3 @@
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,react,git&theme=light)](https://skillicons.dev)
 
 </div>
-
----
-
-
-### Stats
-<div align="center">
-
-[![solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=chid)](https://solved.ac/chid)
-
-</div>
